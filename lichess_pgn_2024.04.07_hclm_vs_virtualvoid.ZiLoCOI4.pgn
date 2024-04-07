@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/ZiLoCOI4"]
+[Date "2024.04.07"]
+[White "hclm"]
+[Black "virtualvoid"]
+[Result "1-0"]
+[UTCDate "2024.04.07"]
+[UTCTime "18:06:09"]
+[WhiteElo "1707"]
+[BlackElo "1767"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Rasa-Studier Gambit"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:10:00] } 1... c6 { [%clk 0:10:00] } 2. d4 { [%clk 0:10:03] } 2... d5 { [%clk 0:10:04] } 3. Nc3 { [%clk 0:10:05] } 3... dxe4 { [%clk 0:10:03] } 4. f3 { [%clk 0:10:04] } { B15 Caro-Kann Defense: Rasa-Studier Gambit } 4... Bf5 { [%clk 0:09:35] } 5. Nxe4 { [%clk 0:09:57] } 5... Nf6 { [%clk 0:09:22] } 6. Bd3 { [%clk 0:09:52] } 6... e6 { [%clk 0:08:19] } 7. Be3 { [%clk 0:09:49] } 7... Bxe4 { [%clk 0:07:58] } 8. Bxe4 { [%clk 0:09:43] } 8... Nxe4 { [%clk 0:08:00] } 9. fxe4 { [%clk 0:09:46] } 9... Be7 { [%clk 0:07:59] } 10. Nf3 { [%clk 0:09:41] } 10... Bh4+ { [%clk 0:07:51] } 11. Nxh4 { [%clk 0:09:37] } 11... Qxh4+ { [%clk 0:07:54] } 12. g3 { [%clk 0:09:38] } 12... Qxe4 { [%clk 0:07:48] } 13. Kd2 { [%clk 0:09:38] } 13... O-O { [%clk 0:07:35] } 14. c3 { [%clk 0:09:33] } 14... Nd7 { [%clk 0:07:05] } 15. Qc2 { [%clk 0:09:27] } 15... Qg2+ { [%clk 0:06:46] } 16. Kd3 { [%clk 0:09:22] } 16... Qxc2+ { [%clk 0:05:59] } 17. Kxc2 { [%clk 0:09:25] } 17... Nf6 { [%clk 0:06:03] } 18. h3 { [%clk 0:09:14] } 18... Nd5 { [%clk 0:05:51] } 19. Bd2 { [%clk 0:08:33] } 19... Rfd8 { [%clk 0:05:47] } 20. Rhf1 { [%clk 0:08:10] } 20... Rac8 { [%clk 0:05:15] } 21. Rf3 { [%clk 0:08:03] } 21... Nf6 { [%clk 0:04:58] } 22. Bg5 { [%clk 0:07:56] } 22... Rd5 { [%clk 0:04:33] } 23. Bxf6 { [%clk 0:07:53] } 23... gxf6 { [%clk 0:04:38] } 24. Rxf6 { [%clk 0:07:56] } 24... Kf8 { [%clk 0:04:20] } 25. Raf1 { [%clk 0:07:59] } 25... Rc7 { [%clk 0:04:21] } 26. b3 { [%clk 0:07:31] } 26... Rh5 { [%clk 0:04:24] } 27. h4 { [%clk 0:07:34] } 27... Rd7 { [%clk 0:04:15] } 28. R1f3 { [%clk 0:07:36] } 28... Ke7 { [%clk 0:04:07] } 29. Rxf7+ { [%clk 0:07:37] } 29... Ke8 { [%clk 0:04:08] } 30. Rxd7 { [%clk 0:07:30] } 30... Kxd7 { [%clk 0:04:13] } 31. Rf7+ { [%clk 0:07:29] } 31... Kc8 { [%clk 0:04:16] } 32. Kd3 { [%clk 0:07:16] } 32... a5 { [%clk 0:04:11] } 33. Ke4 { [%clk 0:07:06] } 33... b6 { [%clk 0:04:08] } 34. Re7 { [%clk 0:06:55] } 34... Rh6 { [%clk 0:03:37] } 35. Rg7 { [%clk 0:06:39] } 35... Rh5 { [%clk 0:03:28] } 36. Kf4 { [%clk 0:06:37] } 36... Rf5+ { [%clk 0:03:15] } 37. Ke3 { [%clk 0:06:35] } 37... c5 { [%clk 0:02:57] } 38. Rxh7 { [%clk 0:06:31] } 38... cxd4+ { [%clk 0:03:00] } 39. cxd4 { [%clk 0:06:33] } 39... Rf1 { [%clk 0:02:48] } 40. h5 { [%clk 0:06:36] } 40... Rg1 { [%clk 0:02:46] } 41. Kf4 { [%clk 0:06:34] } 41... Rd1 { [%clk 0:02:47] } 42. Ke5 { [%clk 0:06:35] } 42... Re1+ { [%clk 0:02:49] } 43. Kd6 { [%clk 0:06:35] } 43... Rd1 { [%clk 0:02:41] } 44. Kc6 { [%clk 0:06:34] } 44... Rxd4 { [%clk 0:02:39] } 45. Rh8+ { [%clk 0:06:37] } 45... Rd8 { [%clk 0:02:36] } 46. Rxd8+ { [%clk 0:06:40] } 46... Kxd8 { [%clk 0:02:41] } 47. h6 { [%clk 0:06:44] } { Black resigns. } 1-0
+
+

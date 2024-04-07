@@ -23,3 +23,10 @@ From the given position, it seems to be a chess problem or a specific position f
 White has a material advantage with an extra queen compared to black.
 However, white's king seems to be in a slightly exposed position due to the black queen's pressure on the h-file.
 White was actually going to loose the queen, that is why the oponent has resigned.
+
+## Parsing PGN
+- `PGN` - Portable Game Notation
+  + can be annotated
+  + [(here)](https://python-chess.readthedocs.io/en/latest/pgn.html#parsing) PGN chess-python lib, how to parse PGNs
+  + [(here)](https://www.freechess.org/Help/HelpFiles/pgn.html) PGN standard, at _Free Internet Chess Server_
+    * [(here)](https://games.freechess.org/pgnspecs.txt) original PGN spec, from 12 March 1994

@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/Ai2HGW2v"]
+[Date "2024.04.07"]
+[White "Toni_74"]
+[Black "hclm"]
+[Result "0-1"]
+[UTCDate "2024.04.07"]
+[UTCTime "16:08:15"]
+[WhiteElo "1678"]
+[BlackElo "1697"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C44"]
+[Opening "Scotch Game: Göring Gambit"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. d4 { [%clk 0:10:04] } 2... exd4 { [%clk 0:10:01] } 3. Nf3 { [%clk 0:10:07] } 3... Nc6 { [%clk 0:10:05] } 4. c3 { [%clk 0:10:11] } { C44 Scotch Game: Göring Gambit } 4... Bc5 { [%clk 0:10:06] } 5. cxd4 { [%clk 0:10:14] } 5... Bb4+ { [%clk 0:09:54] } 6. Nc3 { [%clk 0:10:14] } 6... Nf6 { [%clk 0:09:51] } 7. e5 { [%clk 0:10:16] } 7... Nd5 { [%clk 0:09:50] } 8. Bd2 { [%clk 0:10:09] } 8... Nxc3 { [%clk 0:09:51] } 9. bxc3 { [%clk 0:10:10] } 9... Ba5 { [%clk 0:09:54] } 10. Qb3 { [%clk 0:10:07] } 10... O-O { [%clk 0:09:33] } 11. Bc4 { [%clk 0:10:10] } 11... d6 { [%clk 0:09:31] } 12. Ng5 { [%clk 0:09:47] } 12... Be6 { [%clk 0:09:12] } 13. Bxe6 { [%clk 0:09:43] } 13... Nxd4 { [%clk 0:09:05] } 14. cxd4 { [%clk 0:09:37] } 14... Bxd2+ { [%clk 0:09:07] } 15. Kxd2 { [%clk 0:09:39] } 15... Qxg5+ { [%clk 0:09:10] } 16. Ke2 { [%clk 0:09:31] } 16... fxe6 { [%clk 0:09:07] } 17. Qxe6+ { [%clk 0:09:34] } 17... Kh8 { [%clk 0:09:07] } 18. f3 { [%clk 0:09:33] } 18... Qxg2+ { [%clk 0:09:05] } 19. Ke3 { [%clk 0:09:32] } 19... Rxf3+ { [%clk 0:09:03] } 20. Ke4 { [%clk 0:09:29] } 20... Rf6+ { [%clk 0:08:53] } { White resigns. } 0-1
+
+

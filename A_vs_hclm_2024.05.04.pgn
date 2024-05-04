@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.04"]
+[Round "-"]
+[White "AmanpreetSingh1301"]
+[Black "hclmoreira"]
+[Result "0-1"]
+[CurrentPosition "5b1r/p2b1ppp/3p1n2/3P4/5k2/2B5/P3KPPP/7R w - -"]
+[Timezone "UTC"]
+[ECO "C25"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Max-Lange-Defense-3.Bc4"]
+[UTCDate "2024.05.04"]
+[UTCTime "17:32:11"]
+[WhiteElo "1092"]
+[BlackElo "1152"]
+[TimeControl "600"]
+[Termination "hclmoreira won - game abandoned"]
+[StartTime "17:32:11"]
+[EndDate "2024.05.04"]
+[EndTime "17:38:57"]
+[Link "https://www.chess.com/game/live/108582740245"]
+[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/171016815.b64d1b3e.50x50o.1cf786b8038c.jpeg"]
+[WhiteCountry "3"]
+[WhiteTitle ""]
+[BlackUrl "https://images.chesscomfiles.com/uploads/v1/user/45046030.dfa7b8a7.50x50o.3d40d6c40bf9.jpeg"]
+[BlackCountry "113"]
+[BlackTitle ""]
+
+1. e4 e5 2. Bc4 Nc6 3. Nc3 d6 4. d4 exd4 5. Nd5 Be6 6. Qf3 Ne5 7. Qb3 Nxc4 8.
+Qxc4 c6 9. Qb3 cxd5 10. Qxb7 Qa5+ 11. Bd2 Qd8 12. Ba5 Qb8 13. Qc6+ Ke7 $4 14.
+exd5 $4 Bd7 15. Qc4 Qxb2 16. Rd1 Rc8 17. Qxd4 $6 Qxd4 18. Rxd4 Rxc2 19. Re4+ Kf6
+20. Rf4+ Ke5 $2 21. Ne2 $4 Rxe2+ 22. Kxe2 Kxf4 23. Bc3 Nf6 0-1

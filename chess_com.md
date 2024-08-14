@@ -1,3 +1,9 @@
+# O meu perfil
+- `hclmoreira`
+  + [(here)](https://www.chess.com/stats/live/rapid/hclmoreira/0) Rapida(s), desde sempre
+  + [(here)](https://www.chess.com/stats/live/rapid/hclmoreira) ultimos 90 dias
+  + [(here)](https://www.chess.com/stats/live/rapid/hclmoreira/365) ultimo ano
+
 ## Algumas partidinhas
 1. [(here)](https://www.chess.com/analysis/game/live/108582740245?tab=analysis&move=45) A...1301 vs hmoreira
    + [(here)](https://www.chess.com/library/collections/divertidas-TqZNA3cA) biblioteca (minha)

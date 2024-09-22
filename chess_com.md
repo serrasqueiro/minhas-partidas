@@ -5,6 +5,8 @@
   + [(here)](https://www.chess.com/stats/live/rapid/hclmoreira/365) ultimo ano
 
 ## Algumas partidinhas
+1. [(here)](https://www.chess.com/analysis/game/live/120735032275?tab=review&move=34) hmoreira vs Z...s
+   + _scotish_ com achado tatico!
 1. [(here)](https://www.chess.com/analysis/game/live/108582740245?tab=analysis&move=45) A...1301 vs hmoreira
    + [(here)](https://www.chess.com/library/collections/divertidas-TqZNA3cA) biblioteca (minha)
 1. [(here)](https://www.chess.com/game/live/108584421549?tab=analysis&move=42) hmoreira vs F...08 (black resigns)

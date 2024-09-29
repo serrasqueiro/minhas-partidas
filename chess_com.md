@@ -5,6 +5,8 @@
   + [(here)](https://www.chess.com/stats/live/rapid/hclmoreira/365) ultimo ano
 
 ## Algumas partidinhas
+1. [(here)](https://www.chess.com/analysis/game/live/121380601643?tab=review&move=44) hmoreira vs E...4
+   + _on the brink of check mate each other_
 1. [(here)](https://www.chess.com/analysis/game/live/120735032275?tab=review&move=34) hmoreira vs Z...s
    + _scotish_ com achado tatico!
 1. [(here)](https://www.chess.com/analysis/game/live/108582740245?tab=analysis&move=45) A...1301 vs hmoreira
